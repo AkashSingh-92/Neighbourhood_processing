@@ -8,6 +8,13 @@ There are two types of filtering
   1. Low pass Filtering
   2.High pass Filtering
 
+<p>
 1. Low pass filtering
+  
+  <br>
   a. averaging method (It is used to remove Gaussian noise)
+  </br>
+  <br>
   b. median method (It is used to remove Salt & papper noise)
+  </br>
+</p>
